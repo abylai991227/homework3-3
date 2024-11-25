@@ -1,0 +1,58 @@
+h1 {
+    color: #333;
+    text-align: center;
+    border: 3px solid rgb(252, 6, 92);
+    display: block;
+    margin: 10px;
+}
+
+
+.abza, 
+.conteiner {
+    margin: 10px ;
+    padding: 10px;
+    border: 2px dashed blue;
+    background-color: darkviolet;
+}
+
+.suret {
+    margin: 25px;
+    border: 10px solid red;
+    display: inline; 
+   
+}
+.sublock {
+    margin: 1.5rem;
+    border: 10px solid forestgreen;
+    display: block;
+    padding: 1rem;
+    background-color: #eee;
+}
+
+.ggg {
+    display: inline;
+    border: 10px solid #17c320;
+    padding: 1cm;
+    background-color: #fff;
+    margin: 10cm ; 
+}
+
+.konteiner {s
+    border: 5px solid rgb(132, 7, 7);
+    padding: 20px;
+    margin: 5cm auto ;
+    max-width: 600px;
+    background-color: #17c320;
+}
+
+.konteiner p,
+.konteiner img {
+    display: block; 
+    margin: 25px 0;
+}
+
+.konteiner img {
+    max-width: 50%;
+    height: auto;
+    border: 10px solid #333;
+}
